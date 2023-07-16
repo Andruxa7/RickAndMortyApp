@@ -12,8 +12,6 @@ Rick and Morty app uses Api from them, recollect all characters and they details
 <img src="https://github.com/Andruxa7/RickAndMortyApp/blob/main/RickAndMorty_4.png" width="220"/>
 </p>
 
----
-
 **Tech Used**
 - 🎨 The app designed with VIP Clean Architecture Pattern
 - ❤️‍🩹 Use SnapKit
