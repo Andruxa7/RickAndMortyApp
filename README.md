@@ -8,5 +8,7 @@ Rick and Morty app uses Api from them, recollect all characters and they details
 - App screenshots:
 
 ![logo](/RickAndMorty_1.png)
-
+![logo](/RickAndMorty_2.png)
+![logo](/RickAndMorty_3.png)
+![logo](/RickAndMorty_4.png)
 
