@@ -2,6 +2,9 @@
 iOS App to list Rick and Morty characters
 
 Rick and Morty app uses Api from them, recollect all characters and they details.
+Also in this application there is the ability to sort characters using the SearchBar.
+But for a more accurate search for characters, this application implements a method based on the UIMenu. All you need to do is just click the Sort button located in the upper right corner of the screen and select the desired sorting option from the menu that appears.
+Also in this application there is an opportunity to highlight your favorite characters with a mark in the form of a heart. How to do it? Very simple, for this you need to click on the character that interests you and go to the detailed screen and click on the button in the form of a heart located in the upper right corner of the screen. When pressed, the button will change its color from gray to red, which means that this character is marked as a favorite.
 
 **App screenshots:**
 
