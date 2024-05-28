@@ -1,6 +1,15 @@
 # Rick and Morty App
-iOS App to list Rick and Morty characters
 
+[![Platform](http://img.shields.io/badge/platform-ios-blue.svg?style=flat
+)](https://developer.apple.com/iphone/index.action)
+[![Language](http://img.shields.io/badge/language-swift-brightgreen.svg?style=flat
+)](https://developer.apple.com/swift)
+
+
+### iOS App to list Rick and Morty characters
+iOS Rick and Morty app enable users to browse characters and they details.
+
+## About app
 Rick and Morty app uses Api from them, recollect all characters and they details.
 Also in this application there is the ability to sort characters using the SearchBar.
 But for a more accurate search for characters, this application implements a method based on the UIMenu. All you need to do is just click the Sort button located in the upper right corner of the screen and select the desired sorting option from the menu that appears.
